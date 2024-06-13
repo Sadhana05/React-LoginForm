@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppons:wght@400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:'Poopins', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('https://th.bing.com/th/id/R.67059a0b4891e78b80db2a5b2ee7fdd6?rik=cckgVKouIc6TkA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fXuQDKry.jpg&ehk=sAzKoOVyiD%2bw%2fHKvke%2b8WaesusxoHKc%2fsd4%2bekvCx6g%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover;
+  background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
